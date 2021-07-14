@@ -1,2 +1,2 @@
 # IncubyteAssessment
-Ceated to Submit the Assessment from Incubyte
+Created to Submit the Assessment from Incubyte
